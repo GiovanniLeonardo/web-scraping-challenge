@@ -1,6 +1,7 @@
 # web-scraping-challenge
 Web Scraping Homework - Mission to Mars
 
+![mission_to_mars](https://github.com/GiovanniLeonardo/web-scraping-challenge/blob/master/mission_to_mars/images/fact_table_pd.PNG = 500x500)
 
 ### NASA Mars News
 - Scrape the <a href="https://mars.nasa.gov/news/" target="_blank">NASA Mars News Site</a> and collect the latest News Title and Paragraph Text. Assign the text to variables that you can reference later.
