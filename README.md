@@ -7,7 +7,7 @@ Mission ![Mission-To-Mars](/mission_to_mars/images/mission_to_mars.png)
 - Scrape the <a href="https://mars.nasa.gov/news/" target="_blank">NASA Mars News Site</a> and collect the latest News Title and Paragraph Text. Assign the text to variables that you can reference later.
 
 **News Title:** Alabama High School Student Names NASA's Mars Helicopter.
-** News Paragraph:** Vaneeza Rupani's essay was chosen as the name for the small spacecraft, which will mark NASA's first attempt at powered flight on another planet.
+**News Paragraph:** Vaneeza Rupani's essay was chosen as the name for the small spacecraft, which will mark NASA's first attempt at powered flight on another planet.
 
 ### JPL Mars Space Images - Featured Image
 - Visit the url for JPL Featured Space Image <a href='https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars' open=blank_page>here</a>.
