@@ -1,7 +1,7 @@
 # web-scraping-challenge
 Web Scraping Homework - Mission to Mars
 
-Mission ![Mission-To-Mars](/mission_to_mars/images/mission_to_mars.png = 500x500)
+Mission ![Mission-To-Mars](/mission_to_mars/images/mission_to_mars.png)
 
 ### NASA Mars News
 - Scrape the <a href="https://mars.nasa.gov/news/" target="_blank">NASA Mars News Site</a> and collect the latest News Title and Paragraph Text. Assign the text to variables that you can reference later.
@@ -15,7 +15,7 @@ Mission ![Mission-To-Mars](/mission_to_mars/images/mission_to_mars.png = 500x500
 - Make sure to find the image url to the full size .jpg image.
 - Make sure to save a complete url string for this image.
 
-Featured Image ![Featured_image](https://www.jpl.nasa.gov//spaceimages/images/largesize/PIA17661_hires.jpg = 250x250)
+Featured Image ![Featured_image](https://www.jpl.nasa.gov//spaceimages/images/largesize/PIA17661_hires.jpg)
 
 ### Mars Weather
 - Visit the Mars Weather twitter <a href='https://twitter.com/marswxreport?lang=en/' open=blank_page>here</a> and scrape the latest Mars weather tweet from the page. 
