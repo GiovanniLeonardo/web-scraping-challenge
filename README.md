@@ -1,7 +1,7 @@
 # web-scraping-challenge
 Web Scraping Homework - Mission to Mars
 
-![mission_to_mars](https://github.com/GiovanniLeonardo/web-scraping-challenge/blob/master/mission_to_mars/images/fact_table_pd.PNG = 500x500)
+![](https://github.com/GiovanniLeonardo/web-scraping-challenge/blob/master/mission_to_mars/images/mission_to_mars.png = 500x500)
 
 ### NASA Mars News
 - Scrape the <a href="https://mars.nasa.gov/news/" target="_blank">NASA Mars News Site</a> and collect the latest News Title and Paragraph Text. Assign the text to variables that you can reference later.
@@ -15,7 +15,7 @@ Web Scraping Homework - Mission to Mars
 - Make sure to find the image url to the full size .jpg image.
 - Make sure to save a complete url string for this image.
 
-Featured_Image [Featured_image](https://www.jpl.nasa.gov//spaceimages/images/largesize/PIA17661_hires.jpg)
+![Featured_image](https://www.jpl.nasa.gov//spaceimages/images/largesize/PIA17661_hires.jpg)
 
 ### Mars Weather
 - Visit the Mars Weather twitter <a href='https://twitter.com/marswxreport?lang=en/' open=blank_page>here</a> and scrape the latest Mars weather tweet from the page. 
@@ -25,8 +25,8 @@ Featured_Image [Featured_image](https://www.jpl.nasa.gov//spaceimages/images/lar
 - Visit the Mars Facts webpage <a href='https://space-facts.com/mars/' open=blank_page>here</a> and use Pandas to scrape the table containing facts about the planet including Diameter, Mass, etc.
 - Use Pandas to convert the data to a HTML table string.
 
-Fact_table[Fact_table](https://space-facts.com/mars/)
-Fact_panda_table[Fact_panda_table](mission_to_mars/images/fact_table_pd.PNG)
+[Fact_table](https://space-facts.com/mars/)
+[Fact_panda_table](mission_to_mars/images/fact_table_pd.PNG)
 
 ### Mars Hemispheres
 - Visit the USGS Astrogeology site <a href='https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars/' open=blank_page>here</a> to obtain high resolution images for each of Mar's hemispheres.
