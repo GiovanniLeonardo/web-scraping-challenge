@@ -25,7 +25,7 @@ Featured_Image [Featured_image](https://www.jpl.nasa.gov//spaceimages/images/lar
 - Use Pandas to convert the data to a HTML table string.
 
 Fact_table[Fact_table](https://space-facts.com/mars/)
-Fact_panda_table[Fact_panda_table](images/fact_table_pd.PNG)
+Fact_panda_table[Fact_panda_table](mission_to_mars/images/fact_table_pd.PNG)
 
 ### Mars Hemispheres
 - Visit the USGS Astrogeology site <a href='https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars/' open=blank_page>here</a> to obtain high resolution images for each of Mar's hemispheres.
